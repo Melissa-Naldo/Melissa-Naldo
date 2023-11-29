@@ -6,7 +6,7 @@
 
 - Any constructive criticism on my work would be greatly appreciated so I can keep improving!
 
-- Thank you ^^
+- Thank you!
 
 <!---
 Melissa-Naldo/Melissa-Naldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
